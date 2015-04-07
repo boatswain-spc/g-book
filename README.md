@@ -1,6 +1,5 @@
-# Example from Kubernets
+# Example from Kubernetes
 
-## GuestBook v1beta3 example
 This example shows how to build a simple, multi-tier web application using Kubernetes and Docker.
 
 The example consists of:
